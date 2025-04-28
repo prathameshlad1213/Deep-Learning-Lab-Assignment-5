@@ -1,0 +1,106 @@
+<ipython-input-7-1e742468caae>:11: UserWarning: Could not infer format, so each element will be parsed individually, falling back to `dateutil`. To ensure parsing is consistent and as-expected, please specify a format.
+  df = pd.read_csv('/content/1_Daily_minimum_temps.csv', parse_dates=['Date'], index_col='Date')
+/usr/local/lib/python3.11/dist-packages/keras/src/layers/rnn/rnn.py:200: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+Epoch 1/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 4s 20ms/step - loss: 0.0465 - val_loss: 0.0123
+Epoch 2/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0139 - val_loss: 0.0109
+Epoch 3/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0124 - val_loss: 0.0124
+Epoch 4/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0134 - val_loss: 0.0108
+Epoch 5/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0129 - val_loss: 0.0107
+Epoch 6/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0132 - val_loss: 0.0127
+Epoch 7/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0128 - val_loss: 0.0105
+Epoch 8/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0122 - val_loss: 0.0110
+Epoch 9/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0119 - val_loss: 0.0104
+Epoch 10/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0110 - val_loss: 0.0108
+Epoch 11/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 10ms/step - loss: 0.0120 - val_loss: 0.0102
+Epoch 12/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 12ms/step - loss: 0.0118 - val_loss: 0.0115
+Epoch 13/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 13ms/step - loss: 0.0112 - val_loss: 0.0105
+Epoch 14/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0111 - val_loss: 0.0095
+Epoch 15/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0108 - val_loss: 0.0093
+Epoch 16/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0103 - val_loss: 0.0095
+Epoch 17/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0101 - val_loss: 0.0092
+Epoch 18/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0104 - val_loss: 0.0095
+Epoch 19/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0096 - val_loss: 0.0099
+Epoch 20/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0098 - val_loss: 0.0095
+Epoch 21/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0099 - val_loss: 0.0094
+Epoch 22/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0098 - val_loss: 0.0092
+Epoch 23/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0102 - val_loss: 0.0096
+Epoch 24/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 12ms/step - loss: 0.0105 - val_loss: 0.0092
+Epoch 25/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 12ms/step - loss: 0.0100 - val_loss: 0.0091
+Epoch 26/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0100 - val_loss: 0.0096
+Epoch 27/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step - loss: 0.0096 - val_loss: 0.0091
+Epoch 28/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0096 - val_loss: 0.0091
+Epoch 29/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0098 - val_loss: 0.0091
+Epoch 30/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0101 - val_loss: 0.0093
+Epoch 31/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0094 - val_loss: 0.0092
+Epoch 32/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0091 - val_loss: 0.0095
+Epoch 33/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0099 - val_loss: 0.0096
+Epoch 34/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0094 - val_loss: 0.0091
+Epoch 35/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0098 - val_loss: 0.0091
+Epoch 36/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0095 - val_loss: 0.0091
+Epoch 37/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 2s 12ms/step - loss: 0.0090 - val_loss: 0.0091
+Epoch 38/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 10ms/step - loss: 0.0097 - val_loss: 0.0092
+Epoch 39/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0089 - val_loss: 0.0092
+Epoch 40/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0096 - val_loss: 0.0091
+Epoch 41/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0096 - val_loss: 0.0090
+Epoch 42/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0094 - val_loss: 0.0091
+Epoch 43/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0096 - val_loss: 0.0093
+Epoch 44/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0089 - val_loss: 0.0091
+Epoch 45/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0095 - val_loss: 0.0090
+Epoch 46/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0091 - val_loss: 0.0091
+Epoch 47/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 0.0093 - val_loss: 0.0093
+Epoch 48/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 10ms/step - loss: 0.0091 - val_loss: 0.0091
+Epoch 49/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 12ms/step - loss: 0.0090 - val_loss: 0.0091
+Epoch 50/50
+82/82 ━━━━━━━━━━━━━━━━━━━━ 1s 11ms/step - loss: 0.0094 - val_loss: 0.0093
+91/91 ━━━━━━━━━━━━━━━━━━━━ 1s 5ms/step
+23/23 ━━━━━━━━━━━━━━━━━━━━ 0s 3ms/step

@@ -1,0 +1,459 @@
+Epoch 1/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 178ms/step - loss: 3.2280
+Generating text after epoch 1
+ROMEO: Iarlr, they and thee weame
+For hhan the machand efas by youd buncess
+Af wom le in by risas on and misher
+Mich thee and be heall to thepe goast,
+Fhe fortt dis no werins
+Le memang the lese and suw mears the otres so minn.
+
+BENCEI:
+N lot paxe word 're the thather we so of the gaens. Gerd the e hriss th
+172/172 ━━━━━━━━━━━━━━━━━━━━ 46s 235ms/step - loss: 3.2257
+Epoch 2/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 190ms/step - loss: 2.1622
+Generating text after epoch 2
+ROMEO: Hor, my the heant unound I be night!
+
+DING EFARENT:
+I fay, my will the strant; to shall of lie dors are stall, is the his grome
+Till thou thou be agayselved be be a with pir,
+Mes your encesting in with this setter.
+
+HOSNENS:
+Hens what skeak of thyes in pleath the fonture?
+
+RUCHARCIO:
+Thy nest the re
+172/172 ━━━━━━━━━━━━━━━━━━━━ 46s 258ms/step - loss: 2.1615
+Epoch 3/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 182ms/step - loss: 1.7907
+Generating text after epoch 3
+ROMEO: Pull it not.
+
+GROUCESTER:
+Hark me as he sir, that house bether Tall'd have men shall no marry
+To both my friends.
+
+DUKE VINCENTIO:
+Noth my man gime of mes, but in your
+best the being mer comes on meann,
+And were to my death
+His bried of all the personed
+And as breathed and must in the soil
+King let 
+172/172 ━━━━━━━━━━━━━━━━━━━━ 42s 236ms/step - loss: 1.7903
+Epoch 4/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 185ms/step - loss: 1.6000
+Generating text after epoch 4
+ROMEO: CORUEENTBERTHARD HIO:
+She brother with your love again, this was a frile; when thousandst thou come of the seach all my but to pray,
+That call thy perchs with state I wind their words thou
+hence to the little hand, that shall an is villain,
+Shall you to them, do that partain to her in the propessed 
+172/172 ━━━━━━━━━━━━━━━━━━━━ 44s 243ms/step - loss: 1.5999
+Epoch 5/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 186ms/step - loss: 1.4913
+Generating text after epoch 5
+ROMEO: Prart to him, the lightness there particle, send the very in your children proper sun,
+And make a sense and father state unto you,
+To the lack of the lessed in this rapes
+And must not one.
+
+PETRUCHIO:
+And made here to earth the goes of the marks
+To give me but at the motter which is the world,
+I kno
+172/172 ━━━━━━━━━━━━━━━━━━━━ 44s 248ms/step - loss: 1.4913
+Epoch 6/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 185ms/step - loss: 1.4254
+Generating text after epoch 6
+ROMEO: Marria, sight it of his house,
+When it is bidded to change the moons of the rocks
+And with the time shall be a like too lady?
+Which strew'st thy brother comes the best curst about
+The city of your the lies in made a courterfeiter.
+
+DUKE EDWARD:
+How far thy fire enough, seed them the entreaty
+Which s
+172/172 ━━━━━━━━━━━━━━━━━━━━ 44s 243ms/step - loss: 1.4254
+Epoch 7/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 187ms/step - loss: 1.3780
+Generating text after epoch 7
+ROMEO: An those good more is gone.
+
+BAPTISTA:
+Then give thee Varianter with the beast in the house,
+That thou hast not with a word is so are to my lusty,
+To be the very rest of my life's thoughts:
+But of a little of a strength to bid
+Here in the country, the state thou wilt be children of
+the subjects at m
+172/172 ━━━━━━━━━━━━━━━━━━━━ 82s 244ms/step - loss: 1.3780
+Epoch 8/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 175ms/step - loss: 1.3325
+Generating text after epoch 8
+ROMEO: I
+do do not say our meature is,
+That children toad of his deed walls.
+
+BAPTISTA:
+I must see thee you, madam, and therefore I would shall be a treason
+When I to do the business, which I am.
+
+Servant:
+What is your worship will I go your prince,
+As within the world with them the teck of ote;
+For that w
+172/172 ━━━━━━━━━━━━━━━━━━━━ 80s 234ms/step - loss: 1.3325
+Epoch 9/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 180ms/step - loss: 1.3002
+Generating text after epoch 9
+ROMEO: wime to be of thee?
+
+JULIET:
+I will not be to the base, she is mine own.
+
+BENVOLIO:
+A commould dangerous poar to know my life;
+And thou shalt slig at him for in the ghip
+As who not tears no doubtful person save
+Where shall I tribune to himself: the king contents
+Whose beauty grief the Tower.
+
+POMPEY
+172/172 ━━━━━━━━━━━━━━━━━━━━ 43s 239ms/step - loss: 1.3002
+Epoch 10/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 187ms/step - loss: 1.2672
+Generating text after epoch 10
+ROMEO: I do be here;
+If you continue a thing is that in his
+face and old father; and therefore I require
+A shower of beauty the which we will have some single land and castle fall of day.
+
+KING RICHARD III:
+With me a telling day she be her suit,
+And like our cenerity expross the place.
+
+ROMEO:
+I know not o
+172/172 ━━━━━━━━━━━━━━━━━━━━ 44s 244ms/step - loss: 1.2672
+Epoch 11/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 185ms/step - loss: 1.2337
+Generating text after epoch 11
+ROMEO: here is it not so?
+
+RICHARD:
+I like a life, as I come, to be of such a court
+As you dare nothing.
+
+First Citizen:
+When I do marry me, I pursue them all hearts
+Affliction of it. This has I honour'd him
+And this I will come on this faith groans much.
+
+GRUMIO:
+A good night! why stay she stabbed and pre
+172/172 ━━━━━━━━━━━━━━━━━━━━ 44s 243ms/step - loss: 1.2338
+Epoch 12/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 179ms/step - loss: 1.2073
+Generating text after epoch 12
+ROMEO: we will have discreat. The fay of that, thou dost thou would
+Have been preserved with person to her sovereign,
+And with his hands to be thy death's before.
+
+PETRUCHIO:
+No, maidenously.
+
+ANTONIO:
+What means with her! Ha! what hast thou art love?
+
+BIONDELLO:
+My lord, the blood of country's body here,
+
+172/172 ━━━━━━━━━━━━━━━━━━━━ 81s 237ms/step - loss: 1.2074
+Epoch 13/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 180ms/step - loss: 1.1794
+Generating text after epoch 13
+ROMEO: thou know'st not done.
+
+MENENIUS:
+No, no, a doubt, and be not villing you;
+To make me death, might love my country's sons.
+To stir and stoop and talk of still accused;
+Or that he did let me so, this is dare,
+When my love cousin what you are my father?
+Go, go, he hath a grieved in these tender in the
+172/172 ━━━━━━━━━━━━━━━━━━━━ 42s 236ms/step - loss: 1.1794
+Epoch 14/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 191ms/step - loss: 1.1473
+Generating text after epoch 14
+ROMEO: Where are the compass
+That thou hast ask'd with the world will be free
+That we were rest and stay yet.
+
+PROSPERO:
+My lord, yet you were father with me:
+He seems to do at die.
+
+BRUTUS:
+Music at the sun of Clarence,
+The friend of the day,
+Though they do look upon his body to be bold,
+You know my fault
+172/172 ━━━━━━━━━━━━━━━━━━━━ 44s 249ms/step - loss: 1.1473
+Epoch 15/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 182ms/step - loss: 1.1206
+Generating text after epoch 15
+ROMEO: no!
+I know the king is darkly, we were not the best.
+
+PETRUCHIO:
+Set them but a dream, and we are borned of colours:
+I do bare my officer and deserve to work.
+
+HORTENSIO:
+Then both your love as poison, to be gone.
+
+GREGORY:
+I will to my free words, the land of death.
+
+QUEEN MARGARET:
+And so I speak 
+172/172 ━━━━━━━━━━━━━━━━━━━━ 42s 235ms/step - loss: 1.1207
+Epoch 16/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 187ms/step - loss: 1.0853
+Generating text after epoch 16
+ROMEO: God farewell.
+
+GREMIO:
+A strange distresset of the gentle wings
+And give you valiant sick and dried and breath
+To the pale very work, the king, as one,
+That often doing have not fall to be my state,
+If love my tale against the gods he stands.
+
+KATHARINA:
+I pray thee, now thy wife is not above a way.
+172/172 ━━━━━━━━━━━━━━━━━━━━ 45s 244ms/step - loss: 1.0854
+Epoch 17/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 184ms/step - loss: 1.0568
+Generating text after epoch 17
+ROMEO: And am I lasted with my thunder-man, hearing
+her to the people, therefore discreet them against the king.
+
+SEBASTIAN:
+Ay, then have made them that which he could bear:
+I am in heaven here is the morning's eye,
+And sometimes many proud winds, many a witness
+That Romeo's dead, that lives to beg in't.
+
+172/172 ━━━━━━━━━━━━━━━━━━━━ 43s 241ms/step - loss: 1.0569
+Epoch 18/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 188ms/step - loss: 1.0291
+Generating text after epoch 18
+ROMEO: a dangerous thimb,
+While I may renemperately your dinner.
+
+CLARENCE:
+How oft him on the sun I take the score
+And spit at thy consent to this doint them,
+As well as fair and earth so earth's true far from him.
+
+NORTHUMBERLAND:
+These first were terrived of a great designs.
+
+NORTHUMBERLAND:
+I thank you
+172/172 ━━━━━━━━━━━━━━━━━━━━ 82s 244ms/step - loss: 1.0292
+Epoch 19/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 189ms/step - loss: 1.0005
+Generating text after epoch 19
+ROMEO: I will; 'tis like a county
+Prove as ever brother or enjoin a word:
+This fear, the hopeful mother, what with him?
+
+JOHN OF GAUNT:
+Well shows thee so that I will not be advenged.
+
+PETER:
+And thou too coast in basele and the rest,
+Upon my hands and rotten over him;
+And when the want of all my heart is 
+172/172 ━━━━━━━━━━━━━━━━━━━━ 82s 245ms/step - loss: 1.0006
+Epoch 20/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 183ms/step - loss: 0.9687
+Generating text after epoch 20
+ROMEO: good Camillo, what then in my breast,
+is he which needs must obey?
+
+BENVOLIO:
+For what deserves a whip of him?
+
+COMINIUS:
+Say you think?
+
+FLORIZEL:
+What with a hand of them?
+
+COMINIUS:
+Come, come, sir.
+
+PAULINA:
+How but a dishonord law and my son of mine, if you
+will give my leave and sound the man 
+172/172 ━━━━━━━━━━━━━━━━━━━━ 43s 240ms/step - loss: 0.9689
+Epoch 21/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 186ms/step - loss: 0.9409
+Generating text after epoch 21
+ROMEO: he would not be there before the latest day an eagle,
+And honour of his foneral threatening bed;
+But set the rebels find our brother Plantagenet,
+Make the to her lord.
+
+CORIOLANUS:
+You are a feast; and so we had the sun of mine.
+
+KING EDWARD IV:
+Then show his father hath been in the blood,
+The more 
+172/172 ━━━━━━━━━━━━━━━━━━━━ 44s 244ms/step - loss: 0.9410
+Epoch 22/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 188ms/step - loss: 0.9128
+Generating text after epoch 22
+ROMEO: we'll have no mourner to the sun,
+And fear the sin thou hast the dure of this
+To so and the moon out o' the consuls
+And lay me once in brothers to so.
+
+Provost:
+I may not live to my too: but I beseech you
+And you shall call me word.
+
+Provost:
+Here is the matter, then?
+
+POMPEY:
+I think she was worn t
+172/172 ━━━━━━━━━━━━━━━━━━━━ 82s 244ms/step - loss: 0.9129
+Epoch 23/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 184ms/step - loss: 0.8848
+Generating text after epoch 23
+ROMEO: then go and horses! Come on;
+The law may be a thousand fortune in this alter.
+
+LUCENTIO:
+Here's Marcius, I cannot tell how I may sack his wife and victory.
+This is your worship's pleasure to assick
+A two deserved with my poor heart. So shall the rest will come.
+
+QUEEN ELIZABETH:
+What stay are you sh
+172/172 ━━━━━━━━━━━━━━━━━━━━ 42s 237ms/step - loss: 0.8849
+Epoch 24/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 186ms/step - loss: 0.8600
+Generating text after epoch 24
+ROMEO: Cominius, speak thou with thy speech.
+
+KING RICHARD III:
+Say, you never dead no farther feeling in
+the sea, the book of brats is not since a part
+And all protectors of their hearts together!
+Make proclaim my boots thee not to ruin,
+That ever will be taught by this deposed
+That I should kneel by this
+172/172 ━━━━━━━━━━━━━━━━━━━━ 44s 243ms/step - loss: 0.8601
+Epoch 25/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 188ms/step - loss: 0.8356
+Generating text after epoch 25
+ROMEO: Prince of Wales, as friends, he souls!
+Who do himself, which stands not from their services she
+That you have made to part the oracle
+That you shall die for this for me to know
+That I am proud to bear.
+
+MENENIUS:
+Repent it with me, by your father's blood!
+
+QUEEN MARGARET:
+O mellows this, what with t
+172/172 ━━━━━━━━━━━━━━━━━━━━ 82s 246ms/step - loss: 0.8357
+Epoch 26/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 183ms/step - loss: 0.8157
+Generating text after epoch 26
+ROMEO: then be it so?
+
+First Watchman:
+Why, how now, Edward? as thou slay this?
+
+LUCENTIO:
+Why, good my lord, I do not mind the truth.
+
+NORTHUMBERLAND:
+My lord, I would they were at Venice.
+
+First Murderer:
+We have all days since, gentle sir, the very more confess
+I cannot speak; then if this be done.
+
+ROM
+172/172 ━━━━━━━━━━━━━━━━━━━━ 43s 238ms/step - loss: 0.8158
+Epoch 27/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 185ms/step - loss: 0.7913
+Generating text after epoch 27
+ROMEO: Somerset and tender dogs
+In that spoke but me at Caliban
+Whom not the duke, so or his life and honour,
+In haste that bled enough, with all expedition
+And order hath not been by any thing;
+And so had you betray me; but it be done,
+To cross me to his country's brother by?
+What from the dead blows then
+172/172 ━━━━━━━━━━━━━━━━━━━━ 44s 243ms/step - loss: 0.7914
+Epoch 28/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 173ms/step - loss: 0.7726
+Generating text after epoch 28
+ROMEO: go, sir; and so, farewell.
+I have been faction, sir, and so have seen so change
+Like to a man's person, and your husband's drums.
+
+VOLUMNIA:
+Men he should be advised. Yet I was the humour person, you have shown
+For such a paragon to the ground they see,
+The other did believe two match is come:
+The v
+172/172 ━━━━━━━━━━━━━━━━━━━━ 80s 229ms/step - loss: 0.7727
+Epoch 29/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 179ms/step - loss: 0.7534
+Generating text after epoch 29
+ROMEO: come, sir.
+
+POLIXENES:
+What would you do? 
+MERCUTIO:
+I have deserved nobly.
+
+First Citizen:
+We have been disloyance, you were not the water of the blood
+Of present days in my desires news,
+While we comes, as in age,
+That in the street discomfort of his supher,
+A happy and a holy dry intent.
+
+PRINCE 
+172/172 ━━━━━━━━━━━━━━━━━━━━ 42s 235ms/step - loss: 0.7535
+Epoch 30/30
+172/172 ━━━━━━━━━━━━━━━━━━━━ 0s 182ms/step - loss: 0.7343
+Generating text after epoch 30
+ROMEO: on his fault, I must confess;
+And when I say, I speak not so much strength
+As if the world give sees and set off their summer wealths;
+And that is more than misery.
+
+DUKE VINCENTIO:
+That in this cause as big as a poor gentleman, and a
+lovering tear; the mayor in the midst of this state,
+Which the re
+172/172 ━━━━━━━━━━━━━━━━━━━━ 82s 234ms/step - loss: 0.7344
